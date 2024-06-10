@@ -1,6 +1,6 @@
 module github.com/frisbm/go-duckdb-distroless
 
-go 1.22.3
+go 1.22.4
 
 require github.com/marcboeker/go-duckdb v1.7.0
 
